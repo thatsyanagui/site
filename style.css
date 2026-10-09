@@ -49,7 +49,7 @@ p { margin: 0; }
 .site-header .wrap { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 28px; padding-block: 22px; }
 .wordmark { font: 600 1.1rem/1 var(--f-body); letter-spacing: -.01em; text-decoration: none; }
 .nav { display: flex; flex-wrap: wrap; gap: 4px 26px; }
-.nav a { font-size: .95rem; text-decoration: none; color: var(--muted); padding-block: 4px; }
+.nav a { font-size: 1.05rem; font-weight: 500; text-decoration: none; color: color-mix(in srgb, var(--ink) 82%, var(--brand)); padding-block: 4px; }
 .nav a:hover, .nav a[aria-current="page"] { color: var(--ink); }
 .nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 6px; text-decoration-thickness: 1px; }
 
@@ -237,7 +237,7 @@ section { padding-block: clamp(36px, 7vw, 88px); }
 .home { background: #0b0806; }
 .home .site-header { position: absolute; inset: 0 0 auto; background: transparent; padding-top: env(safe-area-inset-top, 0px); }
 .home .wordmark { visibility: hidden; }
-.home .nav a { color: rgba(255, 255, 255, .72); }
+.home .nav a { color: rgba(255, 255, 255, .92); text-shadow: 0 1px 8px rgba(0, 0, 0, .55); }
 .home .nav a:hover { color: #fff; }
 .photo-hero { position: relative; height: 100vh; height: 100svh; min-height: 520px; padding: 0; overflow: hidden; }
 .photo-hero img { position: absolute; inset: 0; width: 100%; height: 100%; max-width: none; object-fit: cover; object-position: 60% 55%; }
