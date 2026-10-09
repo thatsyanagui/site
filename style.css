@@ -299,3 +299,8 @@ img.cover { color: transparent; background: var(--tint); aspect-ratio: 1; }
 .also-list { list-style: none; margin: 0; padding: 0; columns: 3 200px; column-gap: 40px; }
 .also-list li { font-size: 1.15rem; padding-block: 6px; break-inside: avoid; }
 .live-sub { color: var(--muted); margin: 6px 0 0; font-size: .95rem; max-width: 32ch; }
+
+/* Bio: só texto, coluna estreita para ler bem */
+.bio-body { max-width: 64ch; padding-bottom: 96px; }
+.bio-body p { margin: 0 0 1.1em; font-size: 1.08rem; line-height: 1.65; color: color-mix(in srgb, var(--ink) 86%, var(--brand)); }
+.bio-body p:first-child { font-size: clamp(1.25rem, 2.4vw, 1.5rem); line-height: 1.45; color: var(--ink); }
