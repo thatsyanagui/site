@@ -1,4 +1,19 @@
 [
- {"artist": "Bling Projekt", "years": "2013–2015", "roles": "Teclados", "video": "https://www.youtube.com/watch?v=A6Neeb7_bMw&t=81s"},
- {"artist": "IOLANDA", "years": "2021–2026", "roles": "Direcção Musical, Bateria", "video": "https://www.youtube.com/watch?v=2orPQdrUjEw"}
+ {
+  "artist": "Bling Projekt",
+  "years": "2013–2015",
+  "roles": "Teclados",
+  "video": "https://www.youtube.com/watch?v=A6Neeb7_bMw&t=81s"
+ },
+ {
+  "artist": "IOLANDA",
+  "years": "2021–2026",
+  "roles": "Direcção Musical, Bateria",
+  "video": "https://www.youtube.com/watch?v=2orPQdrUjEw"
+ },
+ {
+  "artist": "NBC",
+  "years": "2014–2018",
+  "video": "https://www.youtube.com/watch?v=NsyDwvbZWCg&t=3071s"
+ }
 ]
