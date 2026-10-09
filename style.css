@@ -272,3 +272,6 @@ img.cover { object-fit: cover; height: auto; }
 }
 img.cover { color: transparent; background: var(--tint); aspect-ratio: 1; }
 .work > a { display: block; background: var(--tint); }
+
+/* Shop: por agora só um aviso */
+.shop-soon { margin: 24px 0 0; font-size: clamp(1.4rem, 4vw, 2rem); color: var(--muted); min-height: 40vh; }
