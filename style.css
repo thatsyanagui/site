@@ -311,7 +311,7 @@ img.cover { color: transparent; background: var(--tint); aspect-ratio: 1; }
 .bio-text p:last-child { margin-bottom: 0; }
 .bio-text.first p:first-child { font-size: clamp(1.25rem, 2.4vw, 1.5rem); line-height: 1.45; color: var(--ink); }
 .bio-photo { margin: 0; }
-.bio-photo img { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; background: var(--tint); }
+.bio-photo img { display: block; width: 100%; aspect-ratio: 2 / 3; object-fit: cover; background: var(--tint); }
 @media (max-width: 760px) {
   .bio > [data-bio]:not([hidden]) { gap: 56px; }
   .bio-row, .bio-row.photo-right { grid-template-columns: minmax(0, 1fr); }
