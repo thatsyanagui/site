@@ -298,3 +298,4 @@ img.cover { color: transparent; background: var(--tint); aspect-ratio: 1; }
 .also h2.eyebrow { margin: 0 0 24px; padding-top: 40px; border-top: 1px solid var(--line); }
 .also-list { list-style: none; margin: 0; padding: 0; columns: 3 200px; column-gap: 40px; }
 .also-list li { font-size: 1.15rem; padding-block: 6px; break-inside: avoid; }
+.live-sub { color: var(--muted); margin: 6px 0 0; font-size: .95rem; max-width: 32ch; }
