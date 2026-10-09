@@ -292,3 +292,9 @@ img.cover { color: transparent; background: var(--tint); aspect-ratio: 1; }
 
 /* Menu à esquerda, nome à direita (em ecrãs largos; no telemóvel o menu já fica por baixo, à esquerda) */
 @media (min-width: 561px) { .site-header .nav { order: -1; } }
+
+/* Live: "Also played with", lista simples de nomes em colunas */
+.also { padding-block: 48px 72px; }
+.also h2.eyebrow { margin: 0 0 24px; padding-top: 40px; border-top: 1px solid var(--line); }
+.also-list { list-style: none; margin: 0; padding: 0; columns: 3 200px; column-gap: 40px; }
+.also-list li { font-size: 1.15rem; padding-block: 6px; break-inside: avoid; }
