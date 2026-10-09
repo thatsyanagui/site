@@ -6,7 +6,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e023855be42612996a15d39e66b",
   "url": "https://open.spotify.com/album/4WfZhi4vL5RNhhJepcIYXl",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Produção"
  },
  {
   "year": 2026,
@@ -15,7 +16,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02a3e3ee612fe89f7c8b357d5f",
   "url": "https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Percussão"
  },
  {
   "year": 2026,
@@ -24,7 +26,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e020c3b4c2f70d10c0b49ac7e9a",
   "url": "https://open.spotify.com/album/4yO9UFn9UUAbcMagk23hWB",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Percussão"
  },
  {
   "year": 2026,
@@ -33,7 +36,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02fc01a5ad051ff51d0f3e38a4",
   "url": "https://open.spotify.com/album/05qf2ghTPLyKUX2p9pkylE",
-  "tracks": 4
+  "tracks": 4,
+  "roles": "Percussão, Piano, Composição"
  },
  {
   "year": 2026,
@@ -42,7 +46,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e024fbe767c4effc2b50aa2e62d",
   "url": "https://open.spotify.com/album/0CdzYuPs3EzTgRvseCnS35",
-  "tracks": 10
+  "tracks": 10,
+  "roles": "Teclados"
  },
  {
   "year": 2026,
@@ -51,7 +56,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e0227ae5f6461c7ed80099461c0",
   "url": "https://open.spotify.com/album/62tNKIrsJH19yxTVEPdvA1",
-  "tracks": 13
+  "tracks": 13,
+  "roles": "Produção, Teclados, Guitarras, Programações"
  },
  {
   "year": 2026,
@@ -60,7 +66,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02862f109a4e0ff92d8c311698",
   "url": "https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY",
-  "tracks": 6
+  "tracks": 6,
+  "roles": "Teclados"
  },
  {
   "year": 2026,
@@ -69,7 +76,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0256f6d14e11c870261ef6674b",
   "url": "https://open.spotify.com/album/1R11gIJLYoU3nK84eXD5Lu",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Guitarra, Teclados"
  },
  {
   "year": 2026,
@@ -78,7 +86,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02c6f3e6edf93ba7e25539ff95",
   "url": "https://open.spotify.com/album/2B9YRdKT4vC4v0Uma44llx",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Produção, Composição"
  },
  {
   "year": 2026,
@@ -87,7 +96,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02096b29f0d3fc89358ce74ebe",
   "url": "https://open.spotify.com/album/3jpAnUGtqGSuBqW7rMGNxx",
-  "tracks": 2
+  "tracks": 2,
+  "roles": "Piano"
  },
  {
   "year": 2025,
@@ -96,7 +106,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02f74ae16dd66261fbc18f3dc8",
   "url": "https://open.spotify.com/album/47niQpvStwE2HUHqaF51Um",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Coro"
  },
  {
   "year": 2025,
@@ -105,7 +116,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0298abb64d21e82d79625fcc34",
   "url": "https://open.spotify.com/album/4Hbf5qS3bQyUwO5PBSSVWI",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Teclados"
  },
  {
   "year": 2025,
@@ -114,7 +126,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e028055e70a359fa86ca7611ac5",
   "url": "https://open.spotify.com/album/0PlvO8tfJ8Z07EYsTTnKOn",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Produção, Teclados, Guitarra"
  },
  {
   "year": 2025,
@@ -123,7 +136,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02c7bac24c122cf3c27697081c",
   "url": "https://open.spotify.com/album/20gUmisjTYVG00gBvXzse9",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2025,
@@ -132,7 +146,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e025519e9d2674b880e7c3a4ff4",
   "url": "https://open.spotify.com/album/1C6rjpVuoTtQLMAMb73pJb",
-  "tracks": 2
+  "tracks": 2,
+  "roles": "Teclados"
  },
  {
   "year": 2025,
@@ -141,7 +156,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e026a79caf128f619d28f8314f5",
   "url": "https://open.spotify.com/album/6HYOMwyb8R4F5ylccBafRU",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Piano"
  },
  {
   "year": 2025,
@@ -150,7 +166,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02b0057ed58356531e191d2845",
   "url": "https://open.spotify.com/album/44eGdsJwqmSoQGTTRjub3p",
-  "tracks": 7
+  "tracks": 7,
+  "roles": "Piano"
  },
  {
   "year": 2025,
@@ -159,7 +176,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e026f790b48d6cd4b75d3f81955",
   "url": "https://open.spotify.com/album/31zAuYGijAh4RIDwQdfo88",
-  "tracks": 8
+  "tracks": 8,
+  "roles": "Produção, Teclados, Programações"
  },
  {
   "year": 2025,
@@ -168,7 +186,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0205a218a5afd0b774211516b2",
   "url": "https://open.spotify.com/album/0TBQ6f8BcEEyvyNYmoBrQW",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2025,
@@ -177,7 +196,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e022383847d0f43d36746415ced",
   "url": "https://open.spotify.com/album/5KN4jBxW7mzNd4EWJyBaJc",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Produção, Composição"
  },
  {
   "year": 2025,
@@ -186,7 +206,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02e09ab34ec170eec4892ee78a",
   "url": "https://open.spotify.com/album/6pK8lWjs2d2kThbeSCdGho",
-  "tracks": 4
+  "tracks": 4,
+  "roles": "Composição, Produção"
  },
  {
   "year": 2025,
@@ -195,7 +216,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02acfad178458f7f6ba8907320",
   "url": "https://open.spotify.com/album/1frWyZyKpUTK77CKMuSQzl",
-  "tracks": 9
+  "tracks": 9,
+  "roles": "Teclados, Coro"
  },
  {
   "year": 2024,
@@ -204,7 +226,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02e21f22c13825652fca1547c6",
   "url": "https://open.spotify.com/album/2aSjfX8vsaoJY7s67coD6Q",
-  "tracks": 2
+  "tracks": 2,
+  "roles": "Teclados, Coro"
  },
  {
   "year": 2024,
@@ -213,7 +236,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02a9efa920a3aff33e56918071",
   "url": "https://open.spotify.com/album/1Olpvd2DKsKX5ryVozWKYE",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Produção, Guitarra, Percussão"
  },
  {
   "year": 2024,
@@ -221,7 +245,8 @@
   "artist": "IOLANDA",
   "type": "Faixa · Festival da Canção 2024",
   "cover": "https://i.scdn.co/image/ab67616d00001e02c2d226ff779acc675967e0d2",
-  "url": "https://open.spotify.com/track/2zhBeIoGEqISdQOu4HtQZc"
+  "url": "https://open.spotify.com/track/2zhBeIoGEqISdQOu4HtQZc",
+  "roles": "Teclados"
  },
  {
   "year": 2024,
@@ -230,7 +255,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02a1f280064a8fbf125ccbbbec",
   "url": "https://open.spotify.com/album/5kIN4fhsoFopjJwFSlLgkL",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2024,
@@ -238,7 +264,8 @@
   "artist": "IOLANDA",
   "type": "Faixa · OLHAR P’RA BAIXO",
   "cover": "https://i.scdn.co/image/ab67616d00001e02ad9bfc2bd39b5791cb46a57e",
-  "url": "https://open.spotify.com/track/6oIA0hYupo2ilHbB3hyI7K"
+  "url": "https://open.spotify.com/track/6oIA0hYupo2ilHbB3hyI7K",
+  "roles": "Teclados"
  },
  {
   "year": 2024,
@@ -247,7 +274,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e024d3c31dae8053ffb1fd391b3",
   "url": "https://open.spotify.com/album/3uG9ynIapv6TUJbzWjURi4",
-  "tracks": 5
+  "tracks": 5,
+  "roles": "Produção, Teclados, Guitarra, Programações"
  },
  {
   "year": 2024,
@@ -255,7 +283,8 @@
   "artist": "James dos Reis",
   "type": "Faixa · Camadas",
   "cover": "https://i.scdn.co/image/ab67616d00001e02c25153aa45fb69e83f938935",
-  "url": "https://open.spotify.com/track/3IKsHJijhtkkpqG0NH7I4h"
+  "url": "https://open.spotify.com/track/3IKsHJijhtkkpqG0NH7I4h",
+  "roles": "Teclados"
  },
  {
   "year": 2024,
@@ -264,7 +293,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e021255304685c1fb21c6b6419c",
   "url": "https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3",
-  "tracks": 10
+  "tracks": 10,
+  "roles": "Teclados"
  },
  {
   "year": 2024,
@@ -273,7 +303,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e027a2557cdc20c94d2e8548f42",
   "url": "https://open.spotify.com/album/5l22MHFslPsxlGKrMYDaIe",
-  "tracks": 2
+  "tracks": 2,
+  "roles": "Teclados, Produção"
  },
  {
   "year": 2024,
@@ -281,7 +312,8 @@
   "artist": "Luar",
   "type": "Faixa · Introdução + Faz Parte",
   "cover": "https://i.scdn.co/image/ab67616d00001e02a15bf7134b87baade4e75ffc",
-  "url": "https://open.spotify.com/track/2dtyDHB5fAYYegxi7n8gQa"
+  "url": "https://open.spotify.com/track/2dtyDHB5fAYYegxi7n8gQa",
+  "roles": "Teclados"
  },
  {
   "year": 2024,
@@ -290,7 +322,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02cc11b050c9eec9f69ba210df",
   "url": "https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII",
-  "tracks": 3
+  "tracks": 3,
+  "roles": "Produção, Teclados, Piano"
  },
  {
   "year": 2024,
@@ -299,7 +332,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e023d0086404d5dfdf4312469e0",
   "url": "https://open.spotify.com/album/416ohviXC6mDNnDKW92eo7",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Produção, Guitarra, Teclados, Percussão"
  },
  {
   "year": 2024,
@@ -308,7 +342,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02b781cc5ae940658c8e5396d4",
   "url": "https://open.spotify.com/album/58SzQv5xa893u13ydtEsqT",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2024,
@@ -317,7 +352,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0215482e0b3af59b62ce35746a",
   "url": "https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Piano"
  },
  {
   "year": 2024,
@@ -326,7 +362,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e028c7df13b6bb5cf48fecfa700",
   "url": "https://open.spotify.com/album/31j3YBSov23a9xUrQEi0K3",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Piano"
  },
  {
   "year": 2024,
@@ -335,7 +372,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0277de5b6f6be12ebf62cfabe6",
   "url": "https://open.spotify.com/album/3eANqcDEtiiqU79VFQc1bo",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2024,
@@ -344,7 +382,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02270ce3b2d4dec07f409a75b4",
   "url": "https://open.spotify.com/album/4iKa1lewB9APc3LmOZlgVQ",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Piano"
  },
  {
   "year": 2024,
@@ -353,7 +392,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0202a328ba85ec8188460f62f6",
   "url": "https://open.spotify.com/album/68zf8270ai63Apuz18EusC",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Teclados"
  },
  {
   "year": 2024,
@@ -362,7 +402,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02d43d4ee14c96d48193d4bb5d",
   "url": "https://open.spotify.com/album/7bB3QRooFFLUhUSQSB4D1t",
-  "tracks": 4
+  "tracks": 4,
+  "roles": "Teclados"
  },
  {
   "year": 2024,
@@ -371,7 +412,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e0241eda17004eda2110a31f57f",
   "url": "https://open.spotify.com/album/7jaGrlqmd48Ylpp0gSi1QC",
-  "tracks": 13
+  "tracks": 13,
+  "roles": "Composição, Co-Produção, Teclados"
  },
  {
   "year": 2024,
@@ -379,7 +421,8 @@
   "artist": "YoCliché",
   "type": "Faixa · Raps e Filmes (a Preto e Branco)",
   "cover": "https://i.scdn.co/image/ab67616d00001e026c42c1441294d35259a70be4",
-  "url": "https://open.spotify.com/track/63CwzQsD8p0WXtRDHwokHQ"
+  "url": "https://open.spotify.com/track/63CwzQsD8p0WXtRDHwokHQ",
+  "roles": "Produção"
  },
  {
   "year": 2023,
@@ -388,7 +431,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02bd5a2debd7d63d033d194b0f",
   "url": "https://open.spotify.com/album/1HRiRgR8hwkU1Np00ptjBq",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Produção"
  },
  {
   "year": 2023,
@@ -397,7 +441,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02668e8bada7e09462939554b8",
   "url": "https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Produção"
  },
  {
   "year": 2023,
@@ -406,7 +451,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e020df4690e8d7aec5800c6763d",
   "url": "https://open.spotify.com/album/6UmJFEwuXm0MrFX1X8saAl",
-  "tracks": 6
+  "tracks": 6,
+  "roles": "Produção"
  },
  {
   "year": 2023,
@@ -415,7 +461,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02f75669d1e3e2499a1c5a85eb",
   "url": "https://open.spotify.com/album/0N2GwDGCTkpUNOhL5eQNh0",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2023,
@@ -423,7 +470,8 @@
   "artist": "IOLANDA",
   "type": "Faixa · Cura",
   "cover": "https://i.scdn.co/image/ab67616d00001e020fada3446575852b16b56386",
-  "url": "https://open.spotify.com/track/7mkBYIuETUvJRWAVUKiaHV"
+  "url": "https://open.spotify.com/track/7mkBYIuETUvJRWAVUKiaHV",
+  "roles": "Teclados"
  },
  {
   "year": 2023,
@@ -432,7 +480,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02a713929f28dc2b4aa3babbff",
   "url": "https://open.spotify.com/album/2mqcIy81z21RrZQMLJ2cIg",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Produção, Teclados"
  },
  {
   "year": 2023,
@@ -441,7 +490,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02c059ca85d3c482519e9b6e68",
   "url": "https://open.spotify.com/album/0fhnKKYvZWzAUAgqv3BblF",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2023,
@@ -450,7 +500,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0240b7033eea1ccead96b8bcd5",
   "url": "https://open.spotify.com/album/7yu14S9Kl5S3yGoppNSszt",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2023,
@@ -459,7 +510,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0281c8e05e820f65d3238bb27d",
   "url": "https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2023,
@@ -468,7 +520,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02a90b92613c3c1bd214be3c8d",
   "url": "https://open.spotify.com/album/05DOc2mGjR6gf85CRVzfNu",
-  "tracks": 7
+  "tracks": 7,
+  "roles": "Teclados"
  },
  {
   "year": 2023,
@@ -477,7 +530,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0270e6099af7caccf4597c7333",
   "url": "https://open.spotify.com/album/58cklce0sAjJQ1UOcQd4cN",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção, Voz, Teclados, Bateria"
  },
  {
   "year": 2023,
@@ -486,7 +540,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02f92eaeac241a22f1ab342a35",
   "url": "https://open.spotify.com/album/62ob2bgVdGodxgK9YbMpO5",
-  "tracks": 7
+  "tracks": 7,
+  "roles": "Teclados"
  },
  {
   "year": 2023,
@@ -495,7 +550,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0214d37011b0944db72ecddf9d",
   "url": "https://open.spotify.com/album/2u5OqZ2kgBHr2koObxGOky",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição"
  },
  {
   "year": 2023,
@@ -504,7 +560,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02272f2c8c04baffd66482d374",
   "url": "https://open.spotify.com/album/5XewFKyBppwDNE9CaXMhrI",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção"
  },
  {
   "year": 2023,
@@ -513,7 +570,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0235b1893ade1af6afb23ba45c",
   "url": "https://open.spotify.com/album/3Qh36m1JoKoZyXg4FNyWth",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção"
  },
  {
   "year": 2022,
@@ -521,7 +579,8 @@
   "artist": "André Sardet",
   "type": "Faixa · Ponto De Partida",
   "cover": "https://i.scdn.co/image/ab67616d00001e02117bbe1d39ea79aabc37f762",
-  "url": "https://open.spotify.com/track/3Mo7FL7sgUETivL9vmZxcs"
+  "url": "https://open.spotify.com/track/3Mo7FL7sgUETivL9vmZxcs",
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -530,7 +589,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02fea4c972d6109c904718feec",
   "url": "https://open.spotify.com/album/2meDPKe3i7qODWn3tazYFD",
-  "tracks": 2
+  "tracks": 2,
+  "roles": "Composição, Co-Produção, Piano"
  },
  {
   "year": 2022,
@@ -539,7 +599,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0213e11f07b170b345781a5b72",
   "url": "https://open.spotify.com/album/6GmoYtdz5Jj1SHPBv1HoFx",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -548,7 +609,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02c32c4ab06ba2557965ab1fba",
   "url": "https://open.spotify.com/album/2Zgwiw7nCQMm8jqaGzj1OX",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção"
  },
  {
   "year": 2022,
@@ -557,7 +619,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02e86ce271e8105796e53d2475",
   "url": "https://open.spotify.com/album/4VjGEj2CqVt36M5ggjmaOm",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -566,7 +629,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02fc93de0192fa531910e925a6",
   "url": "https://open.spotify.com/album/00NMnx6uyWLbgabnD79Uc1",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -575,7 +639,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02f7e1d565e7c7207e7470bf7c",
   "url": "https://open.spotify.com/album/3BYMDX4fOqP8KI7UamT5Ji",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Piano"
  },
  {
   "year": 2022,
@@ -584,7 +649,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02efecc630a8ec5fade4659b82",
   "url": "https://open.spotify.com/album/287NvPe7aoWBbG8BzQTlGH",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -593,7 +659,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e021d535f343b914becaf7ce1dd",
   "url": "https://open.spotify.com/album/6hJLiDi7hCSuLcYhB8cavR",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -602,7 +669,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e0278273c410157fca1e199f43c",
   "url": "https://open.spotify.com/album/1WKHgFnVXim0GYVfkOXgFR",
-  "tracks": 3
+  "tracks": 3,
+  "roles": "Composição, Produção, Teclados"
  },
  {
   "year": 2022,
@@ -610,7 +678,8 @@
   "artist": "Diana Castro",
   "type": "Faixa · Festival Da Canção 2022",
   "cover": "https://i.scdn.co/image/ab67616d00001e02386ffd16e1ab40967487b961",
-  "url": "https://open.spotify.com/track/6AnSkbaFckg1e68p2fw6oO"
+  "url": "https://open.spotify.com/track/6AnSkbaFckg1e68p2fw6oO",
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -618,7 +687,8 @@
   "artist": "Extrazen",
   "type": "Faixa · I THINK I THINK TOO MUCH",
   "cover": "https://i.scdn.co/image/ab67616d00001e02357683566b57f8deb1e7c237",
-  "url": "https://open.spotify.com/track/7km3GjEhyHDCYCHcn7vnBg"
+  "url": "https://open.spotify.com/track/7km3GjEhyHDCYCHcn7vnBg",
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -626,7 +696,8 @@
   "artist": "Fado Bicha",
   "type": "Faixa · OCUPAÇÃO",
   "cover": "https://i.scdn.co/image/ab67616d00001e0233951c7da763d115741214b3",
-  "url": "https://open.spotify.com/track/72YPDu8988WF9aYzsE2UkI"
+  "url": "https://open.spotify.com/track/72YPDu8988WF9aYzsE2UkI",
+  "roles": "Piano"
  },
  {
   "year": 2022,
@@ -635,7 +706,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e027d8c11ed7c33baa3e787ba38",
   "url": "https://open.spotify.com/album/5DbYda9oj7ycWpOEplXqxI",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -644,7 +716,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0248cff43748581497f10ab58d",
   "url": "https://open.spotify.com/album/4zewnQFIlrTybkKdM5hu0I",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -653,7 +726,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0242ecd86e894c20186ece3634",
   "url": "https://open.spotify.com/album/778WuDw22ImtAUpgqk1gla",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -662,7 +736,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e028f28b24ac904291df9e2133b",
   "url": "https://open.spotify.com/album/6nYzqeTVkX4yRyB5I3XpcM",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -671,7 +746,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02868351c2b6416a40d191ef99",
   "url": "https://open.spotify.com/album/0HXeCmtqSa8mlEGlD6mSbc",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -680,7 +756,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02f6e519bbfdbdee7da91bd7c5",
   "url": "https://open.spotify.com/album/4fpWkJwVPLovSsAbV00fMl",
-  "tracks": 7
+  "tracks": 7,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -689,7 +766,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02f21fe7abbd3808b99ccf04b0",
   "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM",
-  "tracks": 6
+  "tracks": 6,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -698,7 +776,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e026ec1bb27422951deec83a082",
   "url": "https://open.spotify.com/album/5kDHFsl3B6dkOS9XlcgjfZ",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção, Teclados"
  },
  {
   "year": 2022,
@@ -707,7 +786,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02c4ec8e73fcb51f11e54185cd",
   "url": "https://open.spotify.com/album/2kGSSHu3TijybvNMA4OITC",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção, Teclados"
  },
  {
   "year": 2022,
@@ -716,7 +796,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e023bd5050737f3fe9cc8565560",
   "url": "https://open.spotify.com/album/4XPZgOIbvViStBd1XT2k57",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -725,7 +806,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e024e3448bb05b72a3f0d471a0c",
   "url": "https://open.spotify.com/album/753pPn8fJtxMw6uTXyrn3U",
-  "tracks": 8
+  "tracks": 8,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -734,7 +816,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e0296fa99104fc075c6b64425b0",
   "url": "https://open.spotify.com/album/6vZdmSh0RayjUPq5CfnERf",
-  "tracks": 5
+  "tracks": 5,
+  "roles": "Teclados"
  },
  {
   "year": 2022,
@@ -743,7 +826,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e022f20efd54e4a588a92aa3b40",
   "url": "https://open.spotify.com/album/66Z1cQWwUOeePKRhrwIBfx",
-  "tracks": 5
+  "tracks": 5,
+  "roles": "Composição, Produção"
  },
  {
   "year": 2022,
@@ -752,7 +836,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e027dceec5956a54ce085a1e1ac",
   "url": "https://open.spotify.com/album/78vNTZsf7x1Un1jt6RGN1B",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção"
  },
  {
   "year": 2022,
@@ -761,7 +846,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e022a66be5711155e2c357937b2",
   "url": "https://open.spotify.com/album/1ljcBSGMa9B0ISe11SI0xE",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção, Teclados"
  },
  {
   "year": 2021,
@@ -770,7 +856,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e026729e926f20d10db1f7cea39",
   "url": "https://open.spotify.com/album/7maAJZiuYfvrz1wRNdRxjL",
-  "tracks": 11
+  "tracks": 11,
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -779,7 +866,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02a73b833434c8c68efd6e01b6",
   "url": "https://open.spotify.com/album/6kAadGrN8FyyWwkHQawXPE",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -787,7 +875,8 @@
   "artist": "Beatoven, NBC",
   "type": "Faixa · Mind Frames",
   "cover": "https://i.scdn.co/image/ab67616d00001e0259e75c2e07a151c8e1899d08",
-  "url": "https://open.spotify.com/track/2u4fCpyA8akJBzffmgLbXP"
+  "url": "https://open.spotify.com/track/2u4fCpyA8akJBzffmgLbXP",
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -796,7 +885,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02aec85db1a9feadc2d00317ce",
   "url": "https://open.spotify.com/album/0R1MCscIGfsPD6GvvUaPMM",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -804,7 +894,8 @@
   "artist": "Bárbara Tinoco",
   "type": "Faixa · Desalinhados",
   "cover": "https://i.scdn.co/image/ab67616d00001e025705a843a37a9dc428b20a31",
-  "url": "https://open.spotify.com/track/6JsrNqA2PvS3O8AAtfWvlV"
+  "url": "https://open.spotify.com/track/6JsrNqA2PvS3O8AAtfWvlV",
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -813,7 +904,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0239482efd20636c9344dad808",
   "url": "https://open.spotify.com/album/1yeGt3WdIoMxzTzrSEdN8S",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -822,7 +914,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02628905e2e7cfd2d944741567",
   "url": "https://open.spotify.com/album/2a9LjKy3MfXKuTSnYZoMFk",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -831,7 +924,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e020291542eb65f012c9c402353",
   "url": "https://open.spotify.com/album/18d4KEpvsFrqHpcumr5DZH",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção"
  },
  {
   "year": 2021,
@@ -839,7 +933,8 @@
   "artist": "Moullinex, Afonso Cabral",
   "type": "Faixa · Requiem for Empathy",
   "cover": "https://i.scdn.co/image/ab67616d00001e0226d313b10c843793d3143590",
-  "url": "https://open.spotify.com/track/4yG2535Xkc65h200Ri43S6"
+  "url": "https://open.spotify.com/track/4yG2535Xkc65h200Ri43S6",
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -848,7 +943,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e023068c13527cbb1dde3bcd652",
   "url": "https://open.spotify.com/album/02AdMtpbYTZB4OYlTpYUHn",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -857,7 +953,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0205817cb72a0e3e10d765dd62",
   "url": "https://open.spotify.com/album/2WD8PiUCWBEhJpJXRH8Six",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -866,7 +963,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02302f40e8b12477104e951baf",
   "url": "https://open.spotify.com/album/2tGkHteevFdIqTmvPFwset",
-  "tracks": 11
+  "tracks": 11,
+  "roles": "Composição, Produção"
  },
  {
   "year": 2021,
@@ -875,7 +973,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02555328c7d7f33ae2a73ef552",
   "url": "https://open.spotify.com/album/6AVbotljh2XrxiWHed6HRy",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2021,
@@ -884,7 +983,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0244c62ed4210af82c523fa08a",
   "url": "https://open.spotify.com/album/6DiitmLayJMf3Eq8XZRKPw",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Produção, Teclados"
  },
  {
   "year": 2021,
@@ -893,7 +993,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02b0571c0bb63a87a5af60c9ce",
   "url": "https://open.spotify.com/album/4lEfH3TAz1wg64NfSALDim",
-  "tracks": 4
+  "tracks": 4,
+  "roles": "Composição, Produção, Teclados, Piano"
  },
  {
   "year": 2020,
@@ -902,7 +1003,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e024969fb30f847f413d7462011",
   "url": "https://open.spotify.com/album/1NkcmCCpBaStzV0sLml10l",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -911,7 +1013,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e021347ba2d3f118ee6f69096cd",
   "url": "https://open.spotify.com/album/7JL2kOax3f1lA3LVmo22Iq",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -920,7 +1023,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02e910bbf28fe2a1413b77028b",
   "url": "https://open.spotify.com/album/7FUp47ZSQjd8d6XjPTldFF",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -928,7 +1032,8 @@
   "artist": "Carolina Deslandes",
   "type": "Faixa · Mulher",
   "cover": "https://i.scdn.co/image/ab67616d00001e02635abc3e5baf96c2b312f224",
-  "url": "https://open.spotify.com/track/7kFGEZ8UiPVQCQ0tVRZrOP"
+  "url": "https://open.spotify.com/track/7kFGEZ8UiPVQCQ0tVRZrOP",
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -937,7 +1042,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02af927ae63f1d8c7eecfad4f9",
   "url": "https://open.spotify.com/album/6wSIfsmrL0MyiaUrQNK7fz",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -946,7 +1052,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02624af0ceed96ca8777bcc5bf",
   "url": "https://open.spotify.com/album/69DNpeyu70AmobabfbtH7P",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -955,7 +1062,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02facdf88bedac29f6045cb7a7",
   "url": "https://open.spotify.com/album/1YQiKPDKvK9J2a7SxyBEol",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -964,7 +1072,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02a4a77dc2878fd1edb498c115",
   "url": "https://open.spotify.com/album/2b3EmZL4u8vB4ihu3g3sR1",
-  "tracks": 5
+  "tracks": 5,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -973,7 +1082,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0228c71a66f6ec8513ad0f77a8",
   "url": "https://open.spotify.com/album/7FT035gTHQtfutU5lVDRwE",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -982,7 +1092,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02d8ff66c711b05bea8dafcea1",
   "url": "https://open.spotify.com/album/0bbNMESb3a8nVMAO3zmstt",
-  "tracks": 2
+  "tracks": 2,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -991,7 +1102,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e023c6f19ac31f11e3f04529656",
   "url": "https://open.spotify.com/album/4LMKSqpCduqG3lSNMlEyEK",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -999,7 +1111,8 @@
   "artist": "Papa Dragon, Carolina Varela",
   "type": "Faixa · Papa's Comin to Get Ya",
   "cover": "https://i.scdn.co/image/ab67616d00001e02b98f71b2c9cc00265cd841af",
-  "url": "https://open.spotify.com/track/2ww8y9iq3bXxGuZ0DpzNNr"
+  "url": "https://open.spotify.com/track/2ww8y9iq3bXxGuZ0DpzNNr",
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -1008,7 +1121,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e0275da27292741ad3ed8b210b3",
   "url": "https://open.spotify.com/album/6oQx6JVXCNgf7NO5SRi718",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2020,
@@ -1016,7 +1130,8 @@
   "artist": "Tomás Luzia",
   "type": "Faixa · Festival Da Canção 2020",
   "cover": "https://i.scdn.co/image/ab67616d00001e024c565cf0a4697d0b10d81fe2",
-  "url": "https://open.spotify.com/track/0PCvwrCHYDbH5Paq6fkZIJ"
+  "url": "https://open.spotify.com/track/0PCvwrCHYDbH5Paq6fkZIJ",
+  "roles": "Produção"
  },
  {
   "year": 2020,
@@ -1025,7 +1140,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02c858cea2f7c9fd8d45753416",
   "url": "https://open.spotify.com/album/5oY0MCVZmLSpY22envVCTD",
-  "tracks": 5
+  "tracks": 5,
+  "roles": "Composição, Produção"
  },
  {
   "year": 2019,
@@ -1033,7 +1149,8 @@
   "artist": "Emmy Curl",
   "type": "Faixa · ØPorto",
   "cover": "https://i.scdn.co/image/ab67616d00001e0246555a3e7bc94c28bd8c106d",
-  "url": "https://open.spotify.com/track/2sNeOmgHQYwDjUAe2Og3GR"
+  "url": "https://open.spotify.com/track/2sNeOmgHQYwDjUAe2Og3GR",
+  "roles": "Composição"
  },
  {
   "year": 2019,
@@ -1042,7 +1159,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02424c9852154d9872fb441839",
   "url": "https://open.spotify.com/album/022L9y8VkqeU9kcoPJTc9V",
-  "tracks": 4
+  "tracks": 4,
+  "roles": "Composição, Produção, Teclados"
  },
  {
   "year": 2019,
@@ -1051,7 +1169,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e022f72c8308cf0112aec31f5e7",
   "url": "https://open.spotify.com/album/01OoxtX6lbv0oUOIfZjypk",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2019,
@@ -1060,7 +1179,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02f59bd72ad5a93bacfdccc115",
   "url": "https://open.spotify.com/album/65cY3HeWZNnRB9fMUaIGpO",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2019,
@@ -1069,7 +1189,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02c13fe1428f72b37e00c0ed89",
   "url": "https://open.spotify.com/album/3rhHm1so6rROtkcELyNlXX",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Co-Produção"
  },
  {
   "year": 2019,
@@ -1078,7 +1199,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02704164706b9f811ad1dd71aa",
   "url": "https://open.spotify.com/album/780HMrGt6aYoeaRB6b2fpV",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2019,
@@ -1087,7 +1209,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e029ade7bf136dcd0e2718caf3b",
   "url": "https://open.spotify.com/album/1r9w2xikS1UPaPNuoIb3uY",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2018,
@@ -1096,7 +1219,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02877dce8b4c58d0062daa284f",
   "url": "https://open.spotify.com/album/2asnwGFJKbciHLgTk42mBO",
-  "tracks": 4
+  "tracks": 4,
+  "roles": "Teclados"
  },
  {
   "year": 2018,
@@ -1105,7 +1229,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02d1746f4690013d4caf0383aa",
   "url": "https://open.spotify.com/album/3jAl8p64kvOfNtbHHI2UT4",
-  "tracks": 2
+  "tracks": 2,
+  "roles": "Teclados"
  },
  {
   "year": 2018,
@@ -1114,7 +1239,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02a03f981cd06aaa80d6f3bf21",
   "url": "https://open.spotify.com/album/1ByUSKJPXohYJp8468ACHy",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Teclados"
  },
  {
   "year": 2018,
@@ -1123,7 +1249,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e0243589318ddcc4af6f4903cde",
   "url": "https://open.spotify.com/album/4B9Sqim9O9P03MyQV19woO",
-  "tracks": 8
+  "tracks": 8,
+  "roles": "Teclados"
  },
  {
   "year": 2018,
@@ -1131,7 +1258,8 @@
   "artist": "Janeiro",
   "type": "Faixa · Mega Hits Natal",
   "cover": "https://i.scdn.co/image/ab67616d00001e02ee8759983957425204732d72",
-  "url": "https://open.spotify.com/track/0vsPeEjEvtWRN2pi8ehn22"
+  "url": "https://open.spotify.com/track/0vsPeEjEvtWRN2pi8ehn22",
+  "roles": "Teclados"
  },
  {
   "year": 2018,
@@ -1140,7 +1268,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e02581bb489b64939b6e204f18c",
   "url": "https://open.spotify.com/album/2gWX4YkJjR6wdhOjZ2UYzs",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Co-Produção"
  },
  {
   "year": 2018,
@@ -1149,7 +1278,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e027fb1e04bc7c9e65ee39ce625",
   "url": "https://open.spotify.com/album/0CblhkfRUgXUZLFP1FRD2I",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Co-Produção"
  },
  {
   "year": 2018,
@@ -1157,7 +1287,8 @@
   "artist": "MGDRV",
   "type": "Faixa · MORTE FIXE RAP",
   "cover": "https://i.scdn.co/image/ab67616d00001e022969a9132ab1cc208652856a",
-  "url": "https://open.spotify.com/track/17UvxN446HXpZnOPztBBnr"
+  "url": "https://open.spotify.com/track/17UvxN446HXpZnOPztBBnr",
+  "roles": "Teclados"
  },
  {
   "year": 2018,
@@ -1165,7 +1296,8 @@
   "artist": "Moullinex, Da Chick, YANAGUI",
   "type": "Faixa · Hypersex (Remixes)",
   "cover": "https://i.scdn.co/image/ab67616d00001e0217f36388c0e53e91410b102e",
-  "url": "https://open.spotify.com/track/2tSLc4KD4rNBqs0taz3y4J"
+  "url": "https://open.spotify.com/track/2tSLc4KD4rNBqs0taz3y4J",
+  "roles": "Produção"
  },
  {
   "year": 2018,
@@ -1174,7 +1306,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02bc07dda2a1f5b37a40851f81",
   "url": "https://open.spotify.com/album/2Wwc09LagH35UADmvGRFl0",
-  "tracks": 6
+  "tracks": 6,
+  "roles": "Teclados"
  },
  {
   "year": 2018,
@@ -1182,7 +1315,8 @@
   "artist": "Tiago Bettencourt",
   "type": "Faixa · A Procura",
   "cover": "https://i.scdn.co/image/ab67616d00001e02877eaa267e76ed557a5cd77e",
-  "url": "https://open.spotify.com/track/4XKgYvpaiDR95EbiCTz08H"
+  "url": "https://open.spotify.com/track/4XKgYvpaiDR95EbiCTz08H",
+  "roles": "Piano"
  },
  {
   "year": 2017,
@@ -1191,7 +1325,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e02f2471ee8b820b313aa5d71d6",
   "url": "https://open.spotify.com/album/1jNkJzH1og7wCE5fYOvQEy",
-  "tracks": 10
+  "tracks": 10,
+  "roles": "Composição, Teclados"
  },
  {
   "year": 2017,
@@ -1200,7 +1335,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e024964930529d3409630d8b423",
   "url": "https://open.spotify.com/album/7q9vgNbC9E9rmNZwCRcYh4",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Co-Produção"
  },
  {
   "year": 2017,
@@ -1209,7 +1345,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e021ff09b18f4f7ae6890dbb485",
   "url": "https://open.spotify.com/album/3y8YD8wo1jBuH21wWPlW0K",
-  "tracks": 10
+  "tracks": 10,
+  "roles": "Teclados"
  },
  {
   "year": 2017,
@@ -1218,7 +1355,8 @@
   "type": "Single",
   "cover": "https://i.scdn.co/image/ab67616d00001e026660ab4174cabf09deefdd31",
   "url": "https://open.spotify.com/album/2ygjSPU5Wgvh0t0PrfKobq",
-  "tracks": 1
+  "tracks": 1,
+  "roles": "Composição, Teclados"
  },
  {
   "year": 2016,
@@ -1227,7 +1365,8 @@
   "type": "Álbum",
   "cover": "https://i.scdn.co/image/ab67616d00001e028e0fe9d60729d2237702a297",
   "url": "https://open.spotify.com/album/7of3oIr16Oy869vxeHb7Zn",
-  "tracks": 14
+  "tracks": 14,
+  "roles": "Composição, Co-Produção"
  },
  {
   "year": 2014,
@@ -1235,6 +1374,7 @@
   "artist": "BW JACK, BLING PROJEKT",
   "type": "Faixa · A Memória de Futuro",
   "cover": "https://i.scdn.co/image/ab67616d00001e02f787e63515c76f32e59e2e86",
-  "url": "https://open.spotify.com/track/4u7Vc03PddHoRBIP5AqVS1"
+  "url": "https://open.spotify.com/track/4u7Vc03PddHoRBIP5AqVS1",
+  "roles": "Teclados"
  }
 ]
