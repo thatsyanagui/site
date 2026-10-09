@@ -51,3 +51,8 @@ document.querySelectorAll(".yt[data-id]").forEach((btn) => {
     btn.replaceWith(box);
   }, { once: true });
 });
+
+// Live: nos artistas com quem o Gui ainda toca, o ano final é sempre o ano actual.
+document.querySelectorAll("[data-this-year]").forEach((el) => {
+  el.textContent = String(new Date().getFullYear());
+});

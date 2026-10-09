@@ -9,7 +9,8 @@
   "artist": "IOLANDA",
   "years": "2021–2026",
   "roles": "Direcção Musical, Bateria",
-  "video": "https://www.youtube.com/watch?v=2orPQdrUjEw"
+  "video": "https://www.youtube.com/watch?v=2orPQdrUjEw",
+  "ongoing": true
  },
  {
   "artist": "NBC",
@@ -27,13 +28,15 @@
   "artist": "The Black Mamba",
   "years": "2017–2026",
   "video": "https://www.youtube.com/watch?v=mO6J3GvQI_U",
-  "roles": "Teclados"
+  "roles": "Teclados",
+  "ongoing": true
  },
  {
   "artist": "Marisa Liz",
   "years": "2023–2026",
   "roles": "Direcção Musical, Teclados, Guitarra",
-  "video": "https://www.youtube.com/watch?v=-7q7kiqVghs"
+  "video": "https://www.youtube.com/watch?v=-7q7kiqVghs",
+  "ongoing": true
  },
  {
   "artist": "Moullinex",
@@ -45,13 +48,15 @@
   "artist": "Nenny",
   "years": "2019–2026",
   "roles": "Direcção Musical, Teclados",
-  "video": "https://www.youtube.com/watch?v=IdqnNo1mqko"
+  "video": "https://www.youtube.com/watch?v=IdqnNo1mqko",
+  "ongoing": true
  },
  {
   "artist": "Irma",
   "years": "2019–2026",
   "roles": "Direcção Musical, Teclados",
-  "video": "https://www.youtube.com/watch?v=jy1mhx5wV38"
+  "video": "https://www.youtube.com/watch?v=jy1mhx5wV38",
+  "ongoing": true
  },
  {
   "artist": "Marta Ren",
@@ -63,7 +68,8 @@
   "artist": "Pimenta Caseira",
   "years": "2014–2026",
   "roles": "Teclados, Baixo",
-  "video": "https://www.youtube.com/watch?v=JHCRSwOj2IU"
+  "video": "https://www.youtube.com/watch?v=JHCRSwOj2IU",
+  "ongoing": true
  },
  {
   "artist": "Janeiro",
