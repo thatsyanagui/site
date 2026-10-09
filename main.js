@@ -41,7 +41,7 @@ document.querySelectorAll("[data-copy]").forEach((btn) => {
 document.querySelectorAll(".yt[data-id]").forEach((btn) => {
   btn.addEventListener("click", () => {
     const f = document.createElement("iframe");
-    f.src = `https://www.youtube-nocookie.com/embed/${btn.dataset.id}?autoplay=1&rel=0`;
+    f.src = `https://www.youtube-nocookie.com/embed/${btn.dataset.id}?autoplay=1&rel=0&start=${btn.dataset.start || 0}`;
     f.title = btn.getAttribute("aria-label");
     f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
     f.allowFullscreen = true;
