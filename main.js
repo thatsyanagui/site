@@ -56,3 +56,19 @@ document.querySelectorAll(".yt[data-id]").forEach((btn) => {
 document.querySelectorAll("[data-this-year]").forEach((el) => {
   el.textContent = String(new Date().getFullYear());
 });
+
+// Bio: versão em inglês ou português. Lembra a escolha; sem escolha, segue o idioma do browser.
+const bioSwitch = document.querySelectorAll(".lang-switch [data-lang]");
+if (bioSwitch.length) {
+  const show = (lang) => {
+    document.querySelectorAll("[data-bio]").forEach((el) => { el.hidden = el.dataset.bio !== lang; });
+    bioSwitch.forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
+  };
+  let saved = null;
+  try { saved = localStorage.getItem("bio-lang"); } catch {}
+  show(saved || ((navigator.language || "").toLowerCase().startsWith("pt") ? "pt" : "en"));
+  bioSwitch.forEach((b) => b.addEventListener("click", () => {
+    show(b.dataset.lang);
+    try { localStorage.setItem("bio-lang", b.dataset.lang); } catch {}
+  }));
+}
