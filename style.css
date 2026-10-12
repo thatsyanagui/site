@@ -320,3 +320,18 @@ img.cover { color: transparent; background: var(--tint); aspect-ratio: 1; }
 .lang-switch { display: flex; gap: 4px; margin-top: 20px; }
 .lang-switch button { font: 400 .8rem/1 var(--f-mono); letter-spacing: .08em; color: var(--muted); background: none; border: 1px solid var(--line); border-radius: 999px; padding: 7px 12px; cursor: pointer; }
 .lang-switch button[aria-pressed="true"] { color: var(--brand); background: var(--ink); border-color: var(--ink); }
+
+/* Yanagui */
+.yan-intro { display: grid; gap: 16px; max-width: 60ch; margin-top: 8px; }
+.yan-intro p:first-child { font-size: clamp(1.15rem, 2vw, 1.4rem); line-height: 1.45; }
+.yan-intro p { color: var(--muted); margin: 0; }
+.yan-intro p:first-child { color: inherit; }
+.yan-links { display: flex; gap: 24px; margin-top: 28px; font: 400 .78rem/1.4 var(--f-mono); text-transform: uppercase; letter-spacing: .08em; }
+.yan-links a { border-bottom: 1px solid var(--line); padding-bottom: 2px; }
+.yan-section { padding-block: 40px; border-top: 1px solid var(--line); }
+.yan-section > h2 { margin: 0 0 28px; }
+.yan-videos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 40px 32px; }
+.yan-video { margin: 0; display: grid; gap: 12px; }
+.yan-video h3 { font-size: 1.15rem; font-weight: 500; margin: 0; }
+.yan-video p { color: var(--muted); margin: 4px 0 0; font-size: .9rem; }
+@media (max-width: 700px) { .yan-videos { grid-template-columns: minmax(0, 1fr); } }
