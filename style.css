@@ -352,3 +352,4 @@ img.cover { color: transparent; background: var(--tint); aspect-ratio: 1; }
 .live-flow a:hover, .live-flow a:focus-visible { text-decoration-color: currentColor; }
 .live-intro { margin: 0; padding-top: 28px; border-top: 1px solid var(--line); color: var(--muted); font-size: clamp(.95rem, 1.4vw, 1.05rem); }
 .live-intro + .live-flow { border-top: 0; padding-top: 14px; }
+.live-intro { border-top: 0; padding-top: 0; }
