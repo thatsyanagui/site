@@ -337,7 +337,7 @@ img.cover { color: transparent; background: var(--tint); aspect-ratio: 1; }
 @media (max-width: 700px) { .yan-videos { grid-template-columns: minmax(0, 1fr); } }
 
 /* Live sem vídeos: uma linha por projecto, o nome abre o vídeo */
-.live-list .live-row { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) minmax(0, 1.4fr); gap: 8px 32px; align-items: baseline; padding-block: 28px; }
+.live-list .live-row { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 8px 32px; align-items: baseline; padding-block: 28px; }
 .live-row .live-years, .live-row .live-roles { margin: 0; }
 .live-row h3 a { color: inherit; text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .2s; }
 .live-row h3 a:hover, .live-row h3 a:focus-visible { border-bottom-color: currentColor; }
